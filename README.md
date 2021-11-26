@@ -1,2 +1,2 @@
-# gobbin-builder
+# gobin-builder
 Docker image to  build and compress Go executables
